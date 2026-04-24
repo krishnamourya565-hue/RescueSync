@@ -1,0 +1,6 @@
+backend
+dist
+push_to_github.bat
+start.bat
+Technical_Report.md
+.idea
