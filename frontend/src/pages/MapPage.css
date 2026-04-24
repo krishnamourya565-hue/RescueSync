@@ -1,0 +1,11 @@
+.map-page {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 120px);
+}
+
+.map-container {
+  flex-grow: 1;
+  padding: 10px;
+  min-height: 500px;
+}
